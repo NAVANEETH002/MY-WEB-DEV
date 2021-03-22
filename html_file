@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title> WS SERVICES</title>
+</head>
+<body>
+	<h1>WS SERVICES</h1>
+	<input type="button" name="more options"><br>
+	<input type="button" name="login">
+	<h4>Register</h4>
+	<h4>Bag</h4>
+	<input type="button" name="search">
+	<h3>Category</h3>
+	<img src="https://lh3.googleusercontent.com/proxy/mxG8usd1-KDCM0OAkPwpQp1tYpavUWBEIRt1oI6HTtupCUdA-MO2R8C1uKkiAu9SHsUTRhk9ny0rNRGqgdAhH-twYtCjPbwwNXwO">
+	<h3>Biscuits</h3>
+	<img src="https://5.imimg.com/data5/DK/JT/EE/SELLER-4875839/all-imported-chocolates-250x250.jpg">
+	<h3>Chocolates</h3>
+	<img src="https://review.chinabrands.com/chinabrands/seo/image/20181116/wholesalegroceries.jpg">
+	<h3>Groceries</h3>
+	<img src="https://i.ytimg.com/vi/GWZ4s3XemKg/maxresdefault.jpg">
+	<h3>Plastic Items</h3>
+	<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREiMgBopYT_D_cgWmNHZBAUIhDAogDDPbkiA&usqp=CAU">
+	<h3>Playing Items</h3>
+	<img src="https://cdn.ecommercedns.uk/files/7/203427/0/1616810/category-image-soft-drinks.jpg">
+	<h3>Drinks and Juice Items</h3>
+	<h4>About Us</h4>
+	<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+	tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+	quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+	consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+	cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+	proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+	<h3>Contact Details</h3>
+	<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+	tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+	quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+	consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+	cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+	proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+	<p>COPY RIGHT 2021 BY NAVANEETH</p>
+</body>
+</html>
